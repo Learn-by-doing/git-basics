@@ -93,7 +93,7 @@ Press the `q` key to quit from the help screen.
 
 ## More resources
 
-[Git tutorial for beginners](https://youtu.be/0fKg7e37bQE).
+* [Git tutorial for beginners](https://youtu.be/0fKg7e37bQE).
 
 
 ## Extra Credit
