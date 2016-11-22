@@ -98,4 +98,4 @@ Press the `q` key to quit from the help screen.
 
 ## Extra Credit
 
-If you're feeling like a challenge, try to [create a pull request](https://help.github.com/articles/about-pull-requests/) with some change to this project. Feel free to [create an issue](https://github.com/Learn-by-doing/git-basics/issues/new) for this project if you get stuck and need some help.
+If you're feeling like a challenge, try to [create a pull request](https://help.github.com/articles/about-pull-requests/) with some change to this project. Feel free to [create an issue](https://github.com/Learn-by-doing/git-basics/issues/new) if you get stuck and need some help.
